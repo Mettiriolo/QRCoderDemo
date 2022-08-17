@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "QRCoderDemo (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "QRCoderDemo (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
