@@ -14,4 +14,5 @@ namespace QRCoderDemo
         public BitmapImage Source { get; set; }
 
     }
+
 }
